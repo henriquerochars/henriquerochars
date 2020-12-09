@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on [Will Bank](https://willbank.com.br/)
 
-- Technologies I am currently studying 👨‍💻 **Focus on languages: JavaScript, TypeScript and Ruby. Focus on frameworks: React, React Native, Node/NestJS and Rails. I'm also enjoying playing with Flutter**
-
 - I also work at 👉 [Vila Apps](https://vilaapps.com.br/)
 
 - and in my company 👉 [Sauce Software House](https://saucesh.com/)
+
+- Technologies I am currently studying 👨‍💻 **Focus on languages: JavaScript, TypeScript and Ruby. Focus on frameworks: React, React Native, Node/NestJS and Rails. I'm also enjoying playing with Flutter**
 
 - My personal blog 🤘 [http://henriquers.com/](http://henriquers.com/)
 
