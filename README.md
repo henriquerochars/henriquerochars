@@ -17,8 +17,8 @@
 <p align="left">
 <a href="https://dev.to/@henriquerochars" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="@henriquerochars" height="30" width="40" /></a>
 <a href="https://twitter.com/@henriquerochars" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@henriquerochars" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/henrique-rocha-serrano-73b81813b/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/henrique-rocha-serrano-73b81813b/" height="30" width="40" /></a>
-<a href="https://instagram.com/@henriquerochars" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="@henriquerochars" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/henrique-rocha-serrano-73b81813b/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/henrique-rocha-serrano-73b81813b/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/henriquerochars/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="@henriquerochars" height="30" width="40" /></a>
 <a href="https://medium.com/@henriquerochars" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@henriquerochars" height="30" width="40" /></a>
 </p>
 
