@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on [Will Bank](https://willbank.com.br/)
 
-- I also work at 👉 [Vila Apps](https://vilaapps.com.br/)
-
 - and in my company 👉 [Sauce Software House](https://saucesh.com/)
 
 - Technologies I am currently studying 👨‍💻 **Focus on languages: JavaScript, TypeScript and Ruby. Focus on frameworks: React, React Native, Node/NestJS and Rails. I'm also enjoying playing with Flutter**
