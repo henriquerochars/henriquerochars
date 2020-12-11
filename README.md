@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Henrique Rocha Serrano</h1>
 <h3 align="center">a dev passionate about traveling, studying new technologies and playing cyberpunk xD</h3>
 
-- 🔭 I’m currently working on [Will Bank](https://willbank.com.br/)
+- I’m currently working on 👉 [Will Bank](https://willbank.com.br/)
 
 - and in my company 👉 [Sauce Software House](https://saucesh.com/)
 
