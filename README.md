@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Henrique Rocha Serrano</h1>
-<h3 align="center">a dev passionate about traveling, studying new technologies and playing cyberpunk xD</h3>
 
 - I’m currently working on 👉 [Will Bank](https://willbank.com.br/)
-
-- and in my company 👉 [Sauce Software House](https://saucesh.com/)
 
 - Technologies I am currently studying 👨‍💻 **Focus on languages: JavaScript, TypeScript and Ruby. Focus on frameworks: React, React Native, Node/NestJS and Rails. I'm also enjoying playing with Flutter**
 
