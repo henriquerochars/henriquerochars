@@ -2,7 +2,7 @@
 
 - I’m currently working on 👉 [Will Bank](https://willbank.com.br/)
 
-- Technologies I am currently studying 👨‍💻 **Focus on languages: JavaScript, TypeScript and Ruby. Focus on frameworks: React, React Native, Node/NestJS and Rails. I'm also enjoying playing with Flutter**
+- Technologies I am currently studying 👨‍💻 **Focus on languages: JavaScript, TypeScript and Ruby. Focus on frameworks: React, React Native, Node/NestJS. I'm also enjoying playing with Flutter**
 
 - My personal blog 🤘 [http://henriquers.com/](http://henriquers.com/)
 
