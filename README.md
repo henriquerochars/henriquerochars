@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Henrique Rocha Serrano</h1>
 
-- I’m currently working on 👉 [Will Bank](https://willbank.com.br/)
+- I’m currently working on 👉 [Vizir Software Studio](https://vizir.com.br/)
 
-- Technologies I am currently studying 👨‍💻 **Focus on languages: JavaScript, TypeScript and Ruby. Focus on frameworks: React, React Native, Node/NestJS. I'm also enjoying playing with Flutter**
+- Technologies I am currently studying and working 👨‍💻 **Focus on languages: JavaScript and TypeScript. Focus on frameworks: React, React Native and Node**
 
 - My personal blog 🤘 [http://henriquers.com/](http://henriquers.com/)
 
