@@ -7,6 +7,8 @@
 
 - 🌱 I’m currently work and learning **React, React Native and Node.I am currently focused on improving myself in these technologies, mainly React Native. But I still like to play with other techs**
 
+- 🤝 Trying to build a company with my friends [Sauce Software House](https://saucesh.netlify.app/)
+
 - 👨‍💻 My blog that I use little [henriquers.com](https://henriquers.com/about/)
 
 - 📫 How to reach me **Talk to me on Twitter - @henriquerochars**
