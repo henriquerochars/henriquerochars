@@ -3,8 +3,6 @@
 
 <p align="left"> <a href="https://twitter.com/henriquerochars" target="blank"><img src="https://img.shields.io/twitter/follow/henriquerochars?logo=twitter&style=for-the-badge" alt="henriquerochars" /></a> </p>
 
-- 🔭 I’m currently working on Lending Club
-
 - 🌱 I’m currently work and learning **JavaScript mainly TypeScript with React, React Native and Node.I am currently focused on improving myself in these technologies, mainly React Native. But I still like to play with other techs**
 
 - 📫 How to reach me **Talk to me on Twitter - @henriquerochars**
