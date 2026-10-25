@@ -7,7 +7,7 @@
 - Software engineer at a US-based AI startup. <!-- opcional: "at [EMPRESA]" -->
 - Studying the **Postgraduate Program in Software Engineering for Applied AI** at **UNIPDS**.
 - Building a new venture with friends. <!-- nome + 1 linha, ou deixe assim se estiver em stealth -->
-- Exploring game development as a creative hobby with **Unity** and **Godot**.
+- Exploring game development as a creative hobby with **Godot**.
 - Currently learning: <!-- o que você está estudando agora -->
 
 ## Tech stack
