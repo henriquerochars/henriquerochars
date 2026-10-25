@@ -1,20 +1,72 @@
-<h1 align="center">Hi 👋, I'm Henrique Rocha Serrano</h1>
-<h3 align="center">A full stack developer from Rio de Janeiro, Brazil.</h3>
+# Henrique Rocha Serrano
 
-<p align="left"> <a href="https://twitter.com/henriquerochars" target="blank"><img src="https://img.shields.io/twitter/follow/henriquerochars?logo=twitter&style=for-the-badge" alt="henriquerochars" /></a> </p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=1000&color=7AA2F7&width=600&height=50&lines=Software+Engineer+%40+AI+startup;Applied+AI+grad+student;Game+dev+on+weekends;Building+something+new+with+friends&username=henriquerochars" alt="Software engineer at an AI startup, Applied AI graduate student, and game dev on weekends" />
 
-- 🌱 I’m currently work and and focusing my studies on **JavaScript and TypeScript languages with React, NextJS, React Native, Node and NestJS frameworks.I am currently focused on improving myself in these technologies, but I still like to play with other techs**
+## About me
 
-- 📫 How to reach me? **Talk to me on Twitter - @henriquerochars**
+- Software engineer at a US-based AI startup. <!-- ADICIONE O NOME DA EMPRESA, SE QUISER -->
+- Studying the **Postgraduate Program in Software Engineering for Applied AI** at **UNIPDS**.
+- Building a new venture with friends. <!-- ADICIONE O NOME E UMA BREVE DESCRIÇÃO, OU INFORME QUE ESTÁ EM STEALTH -->
+- Exploring game development as a creative hobby. <!-- ADICIONE SUA ENGINE: Unity, Godot, Unreal OU GameMaker -->
+- Currently learning: <!-- ADICIONE O QUE VOCÊ ESTÁ ESTUDANDO AGORA -->
 
-- 🧑‍💻 [Portfolio Page](https://henriquerochadev.vercel.app/)
-- 🧑‍💻 [Blog](https://henriquerochadevblog.vercel.app/)
+## Tech stack
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank"> <img src="https://github.com/user-attachments/assets/e13f86a6-8571-4cb8-9db7-2acc6cd38ac9" alt="reactnative" width="50" height="50"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://docs.nestjs.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/NestJS.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank"> <img src="https://github.com/user-attachments/assets/a67e9d73-25a6-4d6d-9641-05e3a7aaa86d" alt="nextjs" width="50" height="40"/> </a> 
-   <a href="https://www.java.com/" target="_blank"> <img src="https://github.com/user-attachments/assets/0fad10db-3ca4-4b59-986b-2fdc6f9ff882" alt="java" width="60" height="40"/> </a> 
-   <a href="https://spring.io/" target="_blank"> <img src="https://github.com/user-attachments/assets/0e80db84-3750-4b4b-b8de-e85ed634ebcf" alt="springboot" width="60" height="40"/> </a> 
-  <a href="https://www.python.org/" target="_blank"> <img src="https://github.com/user-attachments/assets/150aa1f9-c346-4c66-ac2a-50bb12f76365" alt="python" width="40" height="40"/> </a> 
-  <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://github.com/user-attachments/assets/7867448f-d109-4451-b248-2840828a8d4f" alt="django" width="60" height="40"/> </a> 
-</p>
+<!-- AJUSTE AS TECNOLOGIAS ABAIXO À SUA STACK ATUAL. AS LISTADAS JÁ APARECIAM NO SEU PERFIL. -->
+
+### AI / ML
+
+<!-- ADICIONE BADGES APENAS DAS FERRAMENTAS DE IA/ML QUE VOCÊ UTILIZA. -->
+
+### Backend / Web
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&username=henriquerochars)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&username=henriquerochars)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&username=henriquerochars)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&username=henriquerochars)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white&username=henriquerochars)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&username=henriquerochars)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&username=henriquerochars)
+
+### Game Dev
+
+<!-- ADICIONE BADGES DA SUA ENGINE E DAS LINGUAGENS QUE USA PARA GAME DEV. -->
+
+### Tools
+
+<!-- ADICIONE BADGES DAS FERRAMENTAS QUE VOCÊ UTILIZA NO DIA A DIA. -->
+
+## Now building
+
+<!-- ADICIONE: NOME DO PROJETO + UMA OU DUAS LINHAS SOBRE O QUE VOCÊ E SEUS AMIGOS ESTÃO CONSTRUINDO.
+SE ESTIVER EM STEALTH, USE: "Building something new with friends. Details when we're ready to share." -->
+
+## Games & experiments
+
+<!-- LINHA DE EXEMPLO: SUBSTITUA OS CAMPOS ABAIXO POR DADOS REAIS. -->
+<!-- ADICIONE SEUS JOGOS AQUI -->
+
+| Game | Engine | Link | Status |
+| --- | --- | --- | --- |
+| <!-- NOME DO JOGO --> — | <!-- ENGINE --> — | <!-- LINK DO ITCH.IO --> — | <!-- Prototype / In development / Released --> — |
+
+## Stats
+
+<!-- TEMA UTILIZADO: tokyonight. AS ESTATÍSTICAS DEPENDEM DA DISPONIBILIDADE DOS SERVIÇOS EXTERNOS. -->
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=henriquerochars&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="Henrique's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquerochars&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Most used languages in Henrique's public repositories" />
+  <img src="https://streak-stats.demolab.com/?user=henriquerochars&theme=tokyonight&hide_border=true" height="165" alt="Henrique's GitHub contribution streak" />
+</div>
+
+## Find me
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-7AA2F7?style=for-the-badge&logoColor=white&username=henriquerochars)](https://henriquerochadev.vercel.app/)
+[![Blog](https://img.shields.io/badge/Blog-24283B?style=for-the-badge&logoColor=white&username=henriquerochars)](https://henriquerochadevblog.vercel.app/)
+[![X](https://img.shields.io/badge/%40henriquerochars-000000?style=for-the-badge&logo=x&logoColor=white&username=henriquerochars)](https://x.com/henriquerochars)
+[![GitHub](https://img.shields.io/badge/henriquerochars-181717?style=for-the-badge&logo=github&logoColor=white&username=henriquerochars)](https://github.com/henriquerochars)
+
+<!-- ADICIONE SEU LINK DO LINKEDIN. -->
+<!-- ADICIONE SEU LINK DO ITCH.IO. -->
+<!-- ADICIONE SEU LINK DO YOUTUBE, SE QUISER. -->
