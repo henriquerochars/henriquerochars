@@ -22,13 +22,19 @@ jobs:
     steps:
       - uses: actions/checkout@v6
 
+      # The daily run rolls the commit count over to the new year on January 1.
+      - name: Pick the year the stats card counts
+        run: echo "STATS_YEAR=$(date -u +%Y)" >> "$GITHUB_ENV"
+
+      # README_STATS_TOKEN is optional: a classic PAT with repo and read:user scopes makes
+      # commits to private repositories count. Without it only public commits are counted.
       - name: Generate stats card
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&theme=tokyonight&hide_border=true
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=tokyonight&hide_border=true&commits_year=${{ env.STATS_YEAR }}
           path: profile/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.README_STATS_TOKEN || secrets.GITHUB_TOKEN }}
           fail_on_error: true
 
       - name: Generate top languages card
