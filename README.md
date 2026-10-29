@@ -63,7 +63,7 @@
 ## Find me (click on the option)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-7AA2F7?style=for-the-badge&logoColor=white)](https://henriquerochadev.vercel.app/)
-[![Blog](https://img.shields.io/badge/Blog-24283B?style=for-the-badge&logoColor=white)](https://henriquerochadevblog.vercel.app/)
+[![Blog](https://img.shields.io/badge/Blog-24283B?style=for-the-badge&logoColor=white)](https://www.henriquerochadev.blog/)
 [![X](https://img.shields.io/badge/%40henriquerochars-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/henriquerochars)
 [![GitHub](https://img.shields.io/badge/henriquerochars-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/henriquerochars)
 <!-- Descomente e preencha a URL -->
