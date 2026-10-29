@@ -49,8 +49,8 @@
 ## Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=henriquerochars&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="Henrique's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquerochars&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Most used languages" />
+  <img src="./profile/stats.svg" height="165" alt="Henrique's GitHub stats" />
+  <img src="./profile/top-langs.svg" height="165" alt="Most used languages" />
   <br />
   <img src="https://streak-stats.demolab.com/?user=henriquerochars&theme=tokyonight&hide_border=true" height="165" alt="Henrique's GitHub contribution streak" />
 </div>
