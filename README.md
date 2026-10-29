@@ -60,7 +60,7 @@
   <img src="https://streak-stats.demolab.com/?user=henriquerochars&theme=tokyonight&hide_border=true" height="165" alt="Henrique's GitHub contribution streak" />
 </div>
 
-## Find me
+## Find me (click on the option)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-7AA2F7?style=for-the-badge&logoColor=white)](https://henriquerochadev.vercel.app/)
 [![Blog](https://img.shields.io/badge/Blog-24283B?style=for-the-badge&logoColor=white)](https://henriquerochadevblog.vercel.app/)
