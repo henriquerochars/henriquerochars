@@ -60,7 +60,7 @@
   <img src="https://streak-stats.demolab.com/?user=henriquerochars&theme=tokyonight&hide_border=true" height="165" alt="Henrique's GitHub contribution streak" />
 </div>
 
-The contribution total includes private activity recorded by GitHub. GitHub only shares its aggregate, so the commit, PR, issue and repository counts on the card refer to **public** contributions.
+The contribution total includes private activity recorded by GitHub. GitHub's contribution calendar provides only an aggregate for private activity, so the commit, PR, issue and repository counts on the card refer to **public** contributions.
 
 ## Find me (click on the option)
 
