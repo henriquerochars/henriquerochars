@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="467" height="195" viewBox="0 0 467 195" role="img" aria-labelledby="title desc">
   <title id="title">Henrique's GitHub Contribution Streak</title>
-  <desc id="desc">2026: current contribution streak 28 days, longest streak 28 days, active on 234 days.</desc>
+  <desc id="desc">2026: current contribution streak 28 days, longest streak 28 days, active on 233 days.</desc>
   <style>
     .title { fill: #70a5fd; font: 600 18px 'Segoe UI', Ubuntu, sans-serif; }
     .number { fill: #38bdae; font: 700 31px 'Segoe UI', Ubuntu, sans-serif; }
@@ -16,7 +16,7 @@
   <text class="label" x="78" y="140" text-anchor="middle">Current streak</text>
   <text class="number" x="234" y="116" text-anchor="middle">28</text>
   <text class="label" x="234" y="140" text-anchor="middle">Longest streak</text>
-  <text class="number" x="389" y="116" text-anchor="middle">234</text>
+  <text class="number" x="389" y="116" text-anchor="middle">233</text>
   <text class="label" x="389" y="140" text-anchor="middle">Active days</text>
   <text class="footer" x="234" y="177" text-anchor="middle">2026 · GitHub contribution calendar</text>
 </svg>
