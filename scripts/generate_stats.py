@@ -123,13 +123,12 @@ def main():
     }
     if today < year_start:
         raise ValueError("Cannot generate a streak card for a future year")
-    longest = active = run = 0
+    longest = run = 0
     day = year_start
     while day <= today:
         if day not in daily or not isinstance(daily[day], int) or daily[day] < 0:
             raise ValueError(f"GitHub returned invalid contribution data for {day}")
         if daily[day]:
-            active += 1
             run += 1
             longest = max(longest, run)
         else:
@@ -143,7 +142,7 @@ def main():
 
     streak_description = escape(
         f"{year}: current contribution streak {current} days, "
-        f"longest streak {longest} days, active on {active} days."
+        f"longest streak {longest} days, {values['total']} total contributions."
     )
     streak_svg = f'''<svg xmlns="http://www.w3.org/2000/svg" width="467" height="195" viewBox="0 0 467 195" role="img" aria-labelledby="title desc">
   <title id="title">Henrique's GitHub Contribution Streak</title>
@@ -163,14 +162,14 @@ def main():
   <text class="label" x="78" y="140" text-anchor="middle">Current streak</text>
   <text class="number" x="234" y="116" text-anchor="middle">{longest}</text>
   <text class="label" x="234" y="140" text-anchor="middle">Longest streak</text>
-  <text class="number" x="389" y="116" text-anchor="middle">{active}</text>
-  <text class="label" x="389" y="140" text-anchor="middle">Active days</text>
+  <text class="number" x="389" y="116" text-anchor="middle">{format_number(values['total'])}</text>
+  <text class="label" x="389" y="140" text-anchor="middle">Contributions</text>
   <text class="footer" x="234" y="177" text-anchor="middle">{year} · GitHub contribution calendar</text>
 </svg>
 '''
     streak_output = output.parent / "streak.svg"
     streak_output.write_text(streak_svg, encoding="utf-8")
-    print(f"Wrote {streak_output} for {year}: current={current}, longest={longest}, active={active}")
+    print(f"Wrote {streak_output} for {year}: current={current}, longest={longest}, total={values['total']}")
 
 
 if __name__ == "__main__":
