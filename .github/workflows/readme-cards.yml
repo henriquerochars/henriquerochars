@@ -26,7 +26,7 @@ jobs:
       - name: Pick the year the stats card counts
         run: echo "STATS_YEAR=$(date -u +%Y)" >> "$GITHUB_ENV"
 
-      - name: Generate stats card
+      - name: Generate contribution cards
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_USER: ${{ github.repository_owner }}
